@@ -1,0 +1,6 @@
+                             __________                   
+  1 EVKLLESGGGLVQPGGSMRLSCAGSGFTFTDFYMNWIRQPAGKAPEWLGF  50
+    __________________                                    
+ 51 IRDKAKGYTTEYNPSVKGRFTISRDNTQNMLYLQMNTLRAEDTATYYCAR 100
+    __________                                            
+101 EGHTAAPFDYWGQGVMVTVSS                              121

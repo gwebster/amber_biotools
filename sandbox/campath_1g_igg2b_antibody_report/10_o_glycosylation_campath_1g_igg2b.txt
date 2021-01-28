@@ -1,0 +1,5 @@
+Light Chain:        5-TQSP-8     56-TGIP-59     77-SLQP-80     113-PT-114
+                116-SIFP-119     120-PS-121
+ 
+Heavy Chain:        64-PS-65   104-TAAP-107   124-TTAP-127   128-SVYP-131
+ 

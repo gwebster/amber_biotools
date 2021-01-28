@@ -1,0 +1,128 @@
+
+Position:     2, Epitope = IKMTQSPSF, Score =   0.33 for    6 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.47    HLA-DRB1_0701    0.47    HLA-DRB1_0301    0.32    
+HLA-DRB1_1506    0.28    HLA-DRB1_1501    0.28    HLA-DRB1_0309    0.21    
+
+Position:     4, Epitope = MTQSPSFLS, Score =   0.24 for    3 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.25    HLA-DRB1_0701    0.25    HLA-DRB1_0301    0.23    
+
+Position:    10, Epitope = FLSASVGDR, Score =   0.29 for    6 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0309    0.32    HLA-DRB5_0105    0.31    HLA-DRB5_0101    0.31    
+HLA-DRB1_1305    0.29    HLA-DRB1_1128    0.29    HLA-DRB1_0301    0.21    
+
+Position:    15, Epitope = VGDRVTLNC, Score =   0.31 for    6 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0402    0.40    HLA-DRB1_0817    0.35    HLA-DRB1_0804    0.34    
+HLA-DRB1_0806    0.31    HLA-DRB1_0813    0.26    HLA-DRB1_0802    0.21    
+
+Position:    19, Epitope = VTLNCKASQ, Score =   0.30 for   28 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0806    0.42    HLA-DRB1_1304    0.41    HLA-DRB1_0804    0.35    
+HLA-DRB1_1322    0.35    HLA-DRB1_1121    0.35    HLA-DRB1_1102    0.35    
+HLA-DRB1_0311    0.34    HLA-DRB1_0308    0.34    HLA-DRB1_0307    0.34    
+HLA-DRB1_0306    0.34    HLA-DRB1_1311    0.34    HLA-DRB1_1106    0.34    
+HLA-DRB1_1104    0.34    HLA-DRB1_1107    0.33    HLA-DRB1_0801    0.30    
+HLA-DRB1_1321    0.29    HLA-DRB1_1307    0.26    HLA-DRB1_0817    0.26    
+HLA-DRB1_1328    0.25    HLA-DRB1_1327    0.25    HLA-DRB1_1301    0.25    
+HLA-DRB1_0301    0.24    HLA-DRB1_1323    0.23    HLA-DRB1_1114    0.23    
+HLA-DRB1_0802    0.23    HLA-DRB1_0305    0.22    HLA-DRB1_1101    0.22    
+HLA-DRB1_0813    0.21    
+
+Position:    21, Epitope = LNCKASQNI, Score =   0.25 for    8 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.33    HLA-DRB1_0701    0.33    HLA-DRB1_0402    0.30    
+HLA-DRB1_0806    0.22    HLA-DRB1_1328    0.22    HLA-DRB1_1327    0.22    
+HLA-DRB1_1301    0.22    HLA-DRB1_0804    0.21    
+
+Position:    32, Epitope = YLNWYQQKL, Score =   0.33 for    2 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.33    HLA-DRB1_0701    0.33    
+
+Position:    33, Epitope = LNWYQQKLG, Score =   0.26 for    1 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0806    0.26    
+
+Position:    35, Epitope = WYQQKLGES, Score =   0.23 for    2 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0309    0.24    HLA-DRB1_0305    0.21    
+
+Position:    40, Epitope = LGESPKLLI, Score =   0.32 for    3 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.37    HLA-DRB1_0701    0.37    HLA-DRB1_0301    0.22    
+
+Position:    46, Epitope = LLIYNTNNL, Score =   0.37 for   33 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_1506    0.63    HLA-DRB1_1501    0.63    HLA-DRB1_1502    0.53    
+HLA-DRB1_0410    0.50    HLA-DRB1_0806    0.49    HLA-DRB1_0813    0.48    
+HLA-DRB1_0703    0.46    HLA-DRB1_0701    0.46    HLA-DRB1_1328    0.43    
+HLA-DRB1_1327    0.43    HLA-DRB1_1301    0.43    HLA-DRB1_1304    0.42    
+HLA-DRB1_0423    0.42    HLA-DRB1_0404    0.42    HLA-DRB1_0804    0.40    
+HLA-DRB1_0405    0.39    HLA-DRB1_0402    0.38    HLA-DRB1_0801    0.37    
+HLA-DRB1_0817    0.35    HLA-DRB1_1322    0.33    HLA-DRB1_1121    0.33    
+HLA-DRB1_1102    0.33    HLA-DRB1_1302    0.31    HLA-DRB1_1120    0.31    
+HLA-DRB1_0408    0.31    HLA-DRB1_0802    0.28    HLA-DRB1_0301    0.23    
+HLA-DRB1_0311    0.22    HLA-DRB1_0308    0.22    HLA-DRB1_0307    0.22    
+HLA-DRB1_0306    0.22    HLA-DRB1_1323    0.21    HLA-DRB1_1114    0.21    
+
+Position:    47, Epitope = LIYNTNNLQ, Score =   0.34 for   17 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0426    0.49    HLA-DRB1_0401    0.49    HLA-DRB1_0410    0.48    
+HLA-DRB1_0423    0.42    HLA-DRB1_0404    0.42    HLA-DRB1_0402    0.41    
+HLA-DRB1_0405    0.37    HLA-DRB1_1304    0.31    HLA-DRB1_0408    0.31    
+HLA-DRB1_0311    0.30    HLA-DRB1_0308    0.30    HLA-DRB1_0307    0.30    
+HLA-DRB1_0306    0.30    HLA-DRB1_1322    0.24    HLA-DRB1_1121    0.24    
+HLA-DRB1_1102    0.24    HLA-DRB1_1107    0.21    
+
+Position:    48, Epitope = IYNTNNLQT, Score =   0.28 for    8 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_1506    0.36    HLA-DRB1_1501    0.36    HLA-DRB1_0703    0.33    
+HLA-DRB1_0701    0.33    HLA-DRB1_1502    0.26    HLA-DRB1_0426    0.22    
+HLA-DRB1_0401    0.22    HLA-DRB1_0402    0.21    
+
+Position:    54, Epitope = LQTGIPSRF, Score =   0.28 for    2 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0301    0.33    HLA-DRB1_0309    0.23    
+
+Position:    71, Epitope = FTLTISSLQ, Score =   0.27 for    7 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0426    0.35    HLA-DRB1_0401    0.35    HLA-DRB1_0405    0.31    
+HLA-DRB1_0408    0.24    HLA-DRB1_0703    0.22    HLA-DRB1_0701    0.22    
+HLA-DRB1_0410    0.20    
+
+Position:    73, Epitope = LTISSLQPE, Score =   0.22 for    2 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_1304    0.22    HLA-DRB1_0301    0.21    
+
+Position:    78, Epitope = LQPEDVATY, Score =   0.22 for    7 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0426    0.22    HLA-DRB1_0401    0.22    HLA-DRB1_1328    0.22    
+HLA-DRB1_1327    0.22    HLA-DRB1_1301    0.22    HLA-DRB1_0301    0.21    
+HLA-DRB1_0806    0.21    
+
+Position:    83, Epitope = VATYFCLQH, Score =   0.31 for    9 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_1506    0.40    HLA-DRB1_1501    0.40    HLA-DRB1_0817    0.39    
+HLA-DRB1_0806    0.36    HLA-DRB1_1502    0.30    HLA-DRB1_0801    0.24    
+HLA-DRB1_0804    0.24    HLA-DRB1_0410    0.23    HLA-DRB1_1304    0.22    
+
+Position:    86, Epitope = YFCLQHISR, Score =   0.34 for    6 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB5_0105    0.42    HLA-DRB5_0101    0.42    HLA-DRB1_1305    0.38    
+HLA-DRB1_1128    0.38    HLA-DRB1_1101    0.22    HLA-DRB1_1321    0.20    
+
+Position:    89, Epitope = LQHISRPRT, Score =   0.25 for   12 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0301    0.33    HLA-DRB1_1506    0.32    HLA-DRB1_1501    0.32    
+HLA-DRB1_1107    0.26    HLA-DRB1_1311    0.25    HLA-DRB1_1106    0.25    
+HLA-DRB1_1104    0.25    HLA-DRB1_0309    0.22    HLA-DRB1_1321    0.22    
+HLA-DRB1_1502    0.21    HLA-DRB1_1305    0.20    HLA-DRB1_1128    0.20    
+
+Position:    98, Epitope = FGTGTKLEL, Score =   0.28 for    5 allele(s)
+Allele          Score    Allele          Score    Allele          Score
+HLA-DRB1_0703    0.34    HLA-DRB1_0701    0.34    HLA-DRB1_1502    0.27    
+HLA-DRB1_0309    0.26    HLA-DRB1_0817    0.23    
+
+Raw Immunogenicity Score = 53.06, Normalized Immunogenicity Score = 0.50

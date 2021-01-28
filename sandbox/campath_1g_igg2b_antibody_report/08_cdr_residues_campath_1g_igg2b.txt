@@ -1,0 +1,10 @@
+Light Chain: 
+      CDR 1:  24-KASQNIDKYLN-34                 W: None          M: None      
+      CDR 2:  50-NTNNLQT-56                     W: None          M: None      
+      CDR 3:  89-LQHISRPRT-97                   W: None          M: None      
+ 
+Heavy Chain: 
+      CDR 1:  26-GFTFTDFYMN-35                  W: None          M: 34        
+      CDR 2:  51-IRDKAKGYTTEYNPSVKG-68          W: None          M: None      
+      CDR 3:  101-EGHTAAPFDY-110                W: None          M: None      
+ 
