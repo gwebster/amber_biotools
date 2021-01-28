@@ -1,0 +1,5 @@
+Light Chain:          6-QS-7       27-QG-28       55-QS-56     100-QG-101
+ 
+Heavy Chain:        39-QA-40       54-NS-55       74-NA-75       77-NS-78
+                    84-NS-85     113-QG-114
+ 
